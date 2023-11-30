@@ -11,7 +11,7 @@ namespace massiv_3
             double [] array = new double [size];
             for (int i = 0; i < size; i++)
             {
-                array[i]=rend.NextDouble() * (5.1 - 0.4) + 0.4;
+                array[i]=rand.NextDouble() * (5.1 - 0.4) + 0.4;
             }
             foreach (double item in array)
             {
