@@ -1,0 +1,14 @@
+E:\fof git\my git\massiv_3_HW\obj\Debug\net7.0\massiv_3_HW.GeneratedMSBuildEditorConfig.editorconfig
+E:\fof git\my git\massiv_3_HW\obj\Debug\net7.0\massiv_3_HW.AssemblyInfoInputs.cache
+E:\fof git\my git\massiv_3_HW\obj\Debug\net7.0\massiv_3_HW.AssemblyInfo.cs
+E:\fof git\my git\massiv_3_HW\obj\Debug\net7.0\massiv_3_HW.csproj.CoreCompileInputs.cache
+E:\fof git\my git\massiv_3_HW\bin\Debug\net7.0\massiv_3_HW.exe
+E:\fof git\my git\massiv_3_HW\bin\Debug\net7.0\massiv_3_HW.deps.json
+E:\fof git\my git\massiv_3_HW\bin\Debug\net7.0\massiv_3_HW.runtimeconfig.json
+E:\fof git\my git\massiv_3_HW\bin\Debug\net7.0\massiv_3_HW.dll
+E:\fof git\my git\massiv_3_HW\bin\Debug\net7.0\massiv_3_HW.pdb
+E:\fof git\my git\massiv_3_HW\obj\Debug\net7.0\massiv_3_HW.dll
+E:\fof git\my git\massiv_3_HW\obj\Debug\net7.0\refint\massiv_3_HW.dll
+E:\fof git\my git\massiv_3_HW\obj\Debug\net7.0\massiv_3_HW.pdb
+E:\fof git\my git\massiv_3_HW\obj\Debug\net7.0\massiv_3_HW.genruntimeconfig.cache
+E:\fof git\my git\massiv_3_HW\obj\Debug\net7.0\ref\massiv_3_HW.dll
