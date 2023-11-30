@@ -1,0 +1,28 @@
+E:\fof git\my git\massiv_3\bin\Debug\net7.0\massiv_3.exe
+E:\fof git\my git\massiv_3\bin\Debug\net7.0\massiv_3.deps.json
+E:\fof git\my git\massiv_3\bin\Debug\net7.0\massiv_3.runtimeconfig.json
+E:\fof git\my git\massiv_3\bin\Debug\net7.0\massiv_3.dll
+E:\fof git\my git\massiv_3\bin\Debug\net7.0\massiv_3.pdb
+E:\fof git\my git\massiv_3\obj\Debug\net7.0\massiv_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\fof git\my git\massiv_3\obj\Debug\net7.0\massiv_3.AssemblyInfoInputs.cache
+E:\fof git\my git\massiv_3\obj\Debug\net7.0\massiv_3.AssemblyInfo.cs
+E:\fof git\my git\massiv_3\obj\Debug\net7.0\massiv_3.csproj.CoreCompileInputs.cache
+E:\fof git\my git\massiv_3\obj\Debug\net7.0\massiv_3.dll
+E:\fof git\my git\massiv_3\obj\Debug\net7.0\refint\massiv_3.dll
+E:\fof git\my git\massiv_3\obj\Debug\net7.0\massiv_3.pdb
+E:\fof git\my git\massiv_3\obj\Debug\net7.0\massiv_3.genruntimeconfig.cache
+E:\fof git\my git\massiv_3\obj\Debug\net7.0\ref\massiv_3.dll
+E:\fof git\Дом_задание\massiv_3\bin\Debug\net7.0\massiv_3.exe
+E:\fof git\Дом_задание\massiv_3\bin\Debug\net7.0\massiv_3.deps.json
+E:\fof git\Дом_задание\massiv_3\bin\Debug\net7.0\massiv_3.runtimeconfig.json
+E:\fof git\Дом_задание\massiv_3\bin\Debug\net7.0\massiv_3.dll
+E:\fof git\Дом_задание\massiv_3\bin\Debug\net7.0\massiv_3.pdb
+E:\fof git\Дом_задание\massiv_3\obj\Debug\net7.0\massiv_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\fof git\Дом_задание\massiv_3\obj\Debug\net7.0\massiv_3.AssemblyInfoInputs.cache
+E:\fof git\Дом_задание\massiv_3\obj\Debug\net7.0\massiv_3.AssemblyInfo.cs
+E:\fof git\Дом_задание\massiv_3\obj\Debug\net7.0\massiv_3.csproj.CoreCompileInputs.cache
+E:\fof git\Дом_задание\massiv_3\obj\Debug\net7.0\massiv_3.dll
+E:\fof git\Дом_задание\massiv_3\obj\Debug\net7.0\refint\massiv_3.dll
+E:\fof git\Дом_задание\massiv_3\obj\Debug\net7.0\massiv_3.pdb
+E:\fof git\Дом_задание\massiv_3\obj\Debug\net7.0\massiv_3.genruntimeconfig.cache
+E:\fof git\Дом_задание\massiv_3\obj\Debug\net7.0\ref\massiv_3.dll
